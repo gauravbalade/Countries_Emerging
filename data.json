@@ -1,0 +1,6 @@
+{
+  "countries": [
+    { "name": "Japan", "GDP": 5000, "Population": 126.8 },
+    { "name": "India", "GDP": 3100, "Population": 1393 }
+  ]
+}
